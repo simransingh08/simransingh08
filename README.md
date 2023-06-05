@@ -1,4 +1,4 @@
-1[logo] (https://en.pimg.jp/055/074/333/1/55074333.jpg)
+[![MasterHead](https://github.com/simransingh08/simransingh08/blob/main/Banner.jpg)]
 <h1 align="center">Hi 👋, I'm Simran Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
