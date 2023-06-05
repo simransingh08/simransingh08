@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/simransingh08/simransingh08/blob/main/banner.gif)]
+![MasterHead](https://github.com/simransingh08/simransingh08/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Simran Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
